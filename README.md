@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 2.6.2p47
 
-* System dependencies
+* Rails - 5.2.3
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* How it works:
+  -first you must to put value in field then check type of searching(it can be: Name, Type, Designed by)
+  -search result will be displayed in boxes
+  
+* How to launch it:
+  - bundle exec rails s or rails s
