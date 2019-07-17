@@ -1,6 +1,6 @@
 # README
 
-Things you may want to cover:
+Settings:
 
 * Ruby version - 2.6.2p47
 
