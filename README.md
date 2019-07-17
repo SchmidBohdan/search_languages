@@ -12,3 +12,6 @@ Settings:
   
 * How to launch it:
   - bundle exec rails s or rails s
+
+* Heroku:
+  - https://prod-search-project.herokuapp.com/programming_languages
